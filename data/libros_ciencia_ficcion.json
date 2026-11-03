@@ -1,0 +1,585 @@
+[
+  {
+    "titulo": "1984",
+    "autores": [
+      "George Orwell"
+    ],
+    "isbn": "9789000050017",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Un Mundo Feliz",
+    "autores": [
+      "Aldous Huxley"
+    ],
+    "isbn": "9789000050024",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Fahrenheit 451",
+    "autores": [
+      "Ray Bradbury"
+    ],
+    "isbn": "9789000050031",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Crónicas Marcianas",
+    "autores": [
+      "Ray Bradbury"
+    ],
+    "isbn": "9789000050048",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "El Hombre Ilustrado",
+    "autores": [
+      "Ray Bradbury"
+    ],
+    "isbn": "9789000050055",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Dune",
+    "autores": [
+      "Frank Herbert"
+    ],
+    "isbn": "9789000050062",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Fundación",
+    "autores": [
+      "Isaac Asimov"
+    ],
+    "isbn": "9789000050079",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Yo, Robot",
+    "autores": [
+      "Isaac Asimov"
+    ],
+    "isbn": "9789000050086",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Fundación e Imperio",
+    "autores": [
+      "Isaac Asimov"
+    ],
+    "isbn": "9789000050093",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "El Fin de la Eternidad",
+    "autores": [
+      "Isaac Asimov"
+    ],
+    "isbn": "9789000050109",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Las Cavernas de Acero",
+    "autores": [
+      "Isaac Asimov"
+    ],
+    "isbn": "9789000050116",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "La Guerra de los Mundos",
+    "autores": [
+      "H. G. Wells"
+    ],
+    "isbn": "9789000050123",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "La Máquina del Tiempo",
+    "autores": [
+      "H. G. Wells"
+    ],
+    "isbn": "9789000050130",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "La Isla del Doctor Moreau",
+    "autores": [
+      "H. G. Wells"
+    ],
+    "isbn": "9789000050147",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "El Hombre Invisible",
+    "autores": [
+      "H. G. Wells"
+    ],
+    "isbn": "9789000050154",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Veinte Mil Leguas de Viaje Submarino",
+    "autores": [
+      "Julio Verne"
+    ],
+    "isbn": "9789000050161",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Viaje al Centro de la Tierra",
+    "autores": [
+      "Julio Verne"
+    ],
+    "isbn": "9789000050178",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "De la Tierra a la Luna",
+    "autores": [
+      "Julio Verne"
+    ],
+    "isbn": "9789000050185",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Solaris",
+    "autores": [
+      "Stanisław Lem"
+    ],
+    "isbn": "9789000050192",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "El Juego de Ender",
+    "autores": [
+      "Orson Scott Card"
+    ],
+    "isbn": "9789000050208",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Neuromante",
+    "autores": [
+      "William Gibson"
+    ],
+    "isbn": "9789000050215",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Snow Crash",
+    "autores": [
+      "Neal Stephenson"
+    ],
+    "isbn": "9789000050222",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Hyperion",
+    "autores": [
+      "Dan Simmons"
+    ],
+    "isbn": "9789000050239",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Ubik",
+    "autores": [
+      "Philip K. Dick"
+    ],
+    "isbn": "9789000050246",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "¿Sueñan los Androides con Ovejas Eléctricas?",
+    "autores": [
+      "Philip K. Dick"
+    ],
+    "isbn": "9789000050253",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "El Hombre en el Castillo",
+    "autores": [
+      "Philip K. Dick"
+    ],
+    "isbn": "9789000050260",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "2001: Una Odisea Espacial",
+    "autores": [
+      "Arthur C. Clarke"
+    ],
+    "isbn": "9789000050277",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "El Fin de la Infancia",
+    "autores": [
+      "Arthur C. Clarke"
+    ],
+    "isbn": "9789000050284",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Cita con Rama",
+    "autores": [
+      "Arthur C. Clarke"
+    ],
+    "isbn": "9789000050291",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "La Ciudad y las Estrellas",
+    "autores": [
+      "Arthur C. Clarke"
+    ],
+    "isbn": "9789000050307",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "La Mano Izquierda de la Oscuridad",
+    "autores": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn": "9789000050314",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Los Desposeídos",
+    "autores": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn": "9789000050321",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Tropas del Espacio",
+    "autores": [
+      "Robert A. Heinlein"
+    ],
+    "isbn": "9789000050338",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Forastero en Tierra Extraña",
+    "autores": [
+      "Robert A. Heinlein"
+    ],
+    "isbn": "9789000050345",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "La Luna es una Cruel Amante",
+    "autores": [
+      "Robert A. Heinlein"
+    ],
+    "isbn": "9789000050352",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "El Problema de los Tres Cuerpos",
+    "autores": [
+      "Liu Cixin"
+    ],
+    "isbn": "9789000050369",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "El Bosque Oscuro",
+    "autores": [
+      "Liu Cixin"
+    ],
+    "isbn": "9789000050376",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "El Fin de la Muerte",
+    "autores": [
+      "Liu Cixin"
+    ],
+    "isbn": "9789000050383",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Marte (The Martian)",
+    "autores": [
+      "Andy Weir"
+    ],
+    "isbn": "9789000050390",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Proyecto Hail Mary",
+    "autores": [
+      "Andy Weir"
+    ],
+    "isbn": "9789000050406",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Ready Player One",
+    "autores": [
+      "Ernest Cline"
+    ],
+    "isbn": "9789000050413",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Los Juegos del Hambre",
+    "autores": [
+      "Suzanne Collins"
+    ],
+    "isbn": "9789000050420",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Divergente",
+    "autores": [
+      "Veronica Roth"
+    ],
+    "isbn": "9789000050437",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "El Cuento de la Criada",
+    "autores": [
+      "Margaret Atwood"
+    ],
+    "isbn": "9789000050444",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "La Carretera",
+    "autores": [
+      "Cormac McCarthy"
+    ],
+    "isbn": "9789000050451",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Estación Once",
+    "autores": [
+      "Emily St. John Mandel"
+    ],
+    "isbn": "9789000050468",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Contacto",
+    "autores": [
+      "Carl Sagan"
+    ],
+    "isbn": "9789000050475",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Mundo Anillo",
+    "autores": [
+      "Larry Niven"
+    ],
+    "isbn": "9789000050482",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "La Parábola del Sembrador",
+    "autores": [
+      "Octavia E. Butler"
+    ],
+    "isbn": "9789000050499",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "El Eternauta",
+    "autores": [
+      "Héctor Germán Oesterheld"
+    ],
+    "isbn": "9789000050505",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "La Invención de Morel",
+    "autores": [
+      "Adolfo Bioy Casares"
+    ],
+    "isbn": "9789000050512",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Planilandia",
+    "autores": [
+      "Edwin A. Abbott"
+    ],
+    "isbn": "9789000050529",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Nosotros",
+    "autores": [
+      "Yevgeny Zamyatin"
+    ],
+    "isbn": "9789000050536",
+    "categoria": "Ciencia Ficcion",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  }
+]

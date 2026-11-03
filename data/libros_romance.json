@@ -1,0 +1,585 @@
+[
+  {
+    "titulo": "Orgullo y Prejuicio",
+    "autores": [
+      "Jane Austen"
+    ],
+    "isbn": "9789000040018",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Sentido y Sensibilidad",
+    "autores": [
+      "Jane Austen"
+    ],
+    "isbn": "9789000040025",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Emma",
+    "autores": [
+      "Jane Austen"
+    ],
+    "isbn": "9789000040032",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Persuasión",
+    "autores": [
+      "Jane Austen"
+    ],
+    "isbn": "9789000040049",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "La Abadía de Northanger",
+    "autores": [
+      "Jane Austen"
+    ],
+    "isbn": "9789000040056",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Jane Eyre",
+    "autores": [
+      "Charlotte Brontë"
+    ],
+    "isbn": "9789000040063",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Cumbres Borrascosas",
+    "autores": [
+      "Emily Brontë"
+    ],
+    "isbn": "9789000040070",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Ana Karénina",
+    "autores": [
+      "León Tolstói"
+    ],
+    "isbn": "9789000040087",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Madame Bovary",
+    "autores": [
+      "Gustave Flaubert"
+    ],
+    "isbn": "9789000040094",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Romeo y Julieta",
+    "autores": [
+      "William Shakespeare"
+    ],
+    "isbn": "9789000040100",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Los Puentes de Madison County",
+    "autores": [
+      "Robert James Waller"
+    ],
+    "isbn": "9789000040117",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Bajo la Misma Estrella",
+    "autores": [
+      "John Green"
+    ],
+    "isbn": "9789000040124",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Posdata: Te Quiero",
+    "autores": [
+      "Cecelia Ahern"
+    ],
+    "isbn": "9789000040131",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Un Paseo para Recordar",
+    "autores": [
+      "Nicholas Sparks"
+    ],
+    "isbn": "9789000040148",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "El Cuaderno de Noah",
+    "autores": [
+      "Nicholas Sparks"
+    ],
+    "isbn": "9789000040155",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Querido John",
+    "autores": [
+      "Nicholas Sparks"
+    ],
+    "isbn": "9789000040162",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Yo Antes de Ti",
+    "autores": [
+      "Jojo Moyes"
+    ],
+    "isbn": "9789000040179",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Después de Ti",
+    "autores": [
+      "Jojo Moyes"
+    ],
+    "isbn": "9789000040186",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Cincuenta Sombras de Grey",
+    "autores": [
+      "E. L. James"
+    ],
+    "isbn": "9789000040193",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Crepúsculo",
+    "autores": [
+      "Stephenie Meyer"
+    ],
+    "isbn": "9789000040209",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Luna Nueva",
+    "autores": [
+      "Stephenie Meyer"
+    ],
+    "isbn": "9789000040216",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Eclipse",
+    "autores": [
+      "Stephenie Meyer"
+    ],
+    "isbn": "9789000040223",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Amanecer",
+    "autores": [
+      "Stephenie Meyer"
+    ],
+    "isbn": "9789000040230",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Como Agua para Chocolate",
+    "autores": [
+      "Laura Esquivel"
+    ],
+    "isbn": "9789000040247",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "El Amor en los Tiempos del Cólera",
+    "autores": [
+      "Gabriel García Márquez"
+    ],
+    "isbn": "9789000040254",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Del Amor y Otros Demonios",
+    "autores": [
+      "Gabriel García Márquez"
+    ],
+    "isbn": "9789000040261",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Forastera",
+    "autores": [
+      "Diana Gabaldon"
+    ],
+    "isbn": "9789000040278",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "El Duque y Yo",
+    "autores": [
+      "Julia Quinn"
+    ],
+    "isbn": "9789000040285",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Si Decido Quedarme",
+    "autores": [
+      "Gayle Forman"
+    ],
+    "isbn": "9789000040292",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "A Todos los Chicos de los que Me Enamoré",
+    "autores": [
+      "Jenny Han"
+    ],
+    "isbn": "9789000040308",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Rojo, Blanco y Sangre Azul",
+    "autores": [
+      "Casey McQuiston"
+    ],
+    "isbn": "9789000040315",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Culpa Mía",
+    "autores": [
+      "Mercedes Ron"
+    ],
+    "isbn": "9789000040322",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Hermosa Desgracia",
+    "autores": [
+      "Jamie McGuire"
+    ],
+    "isbn": "9789000040339",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Los Siete Maridos de Evelyn Hugo",
+    "autores": [
+      "Taylor Jenkins Reid"
+    ],
+    "isbn": "9789000040346",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Romper el Círculo",
+    "autores": [
+      "Colleen Hoover"
+    ],
+    "isbn": "9789000040353",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Quizás Algún Día",
+    "autores": [
+      "Colleen Hoover"
+    ],
+    "isbn": "9789000040360",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Ugly Love",
+    "autores": [
+      "Colleen Hoover"
+    ],
+    "isbn": "9789000040377",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Doctor Zhivago",
+    "autores": [
+      "Boris Pasternak"
+    ],
+    "isbn": "9789000040384",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Lo que el Viento se Llevó",
+    "autores": [
+      "Margaret Mitchell"
+    ],
+    "isbn": "9789000040391",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Marianela",
+    "autores": [
+      "Benito Pérez Galdós"
+    ],
+    "isbn": "9789000040407",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "María",
+    "autores": [
+      "Jorge Isaacs"
+    ],
+    "isbn": "9789000040414",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "El Gran Gatsby",
+    "autores": [
+      "F. Scott Fitzgerald"
+    ],
+    "isbn": "9789000040421",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "El Tiempo Entre Costuras",
+    "autores": [
+      "María Dueñas"
+    ],
+    "isbn": "9789000040438",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Eva Luna",
+    "autores": [
+      "Isabel Allende"
+    ],
+    "isbn": "9789000040445",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "La Casa de los Espíritus",
+    "autores": [
+      "Isabel Allende"
+    ],
+    "isbn": "9789000040452",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "De Amor y de Sombra",
+    "autores": [
+      "Isabel Allende"
+    ],
+    "isbn": "9789000040469",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Rebeca",
+    "autores": [
+      "Daphne du Maurier"
+    ],
+    "isbn": "9789000040476",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Un Amor de Swann",
+    "autores": [
+      "Marcel Proust"
+    ],
+    "isbn": "9789000040483",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Las Penas del Joven Werther",
+    "autores": [
+      "Johann Wolfgang von Goethe"
+    ],
+    "isbn": "9789000040490",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "La Dama de las Camelias",
+    "autores": [
+      "Alexandre Dumas hijo"
+    ],
+    "isbn": "9789000040506",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Tess d'Urberville",
+    "autores": [
+      "Thomas Hardy"
+    ],
+    "isbn": "9789000040513",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Lejos del Mundanal Ruido",
+    "autores": [
+      "Thomas Hardy"
+    ],
+    "isbn": "9789000040520",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Nuestra Señora de París",
+    "autores": [
+      "Victor Hugo"
+    ],
+    "isbn": "9789000040537",
+    "categoria": "Romance",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  }
+]

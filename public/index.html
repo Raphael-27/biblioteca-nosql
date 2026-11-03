@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Biblioteca UPIICSA</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-in">
+      <h1>📚 Biblioteca <span>UPIICSA</span></h1>
+      <nav>
+        <button class="tab activa" data-vista="catalogo">Catálogo</button>
+        <button class="tab" data-vista="prestamos">Préstamos</button>
+        <button class="tab" data-vista="usuarios">Usuarios</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <!-- CATALOGO -->
+    <section id="vista-catalogo" class="vista">
+      <div class="barra">
+        <input id="q" type="search" placeholder="Buscar por título, autor o ISBN…">
+        <select id="categoria"><option value="">Todas las categorías</option></select>
+        <label class="chk"><input id="soloDisp" type="checkbox"> Solo disponibles</label>
+        <button id="btnNuevoLibro" class="sec">+ Agregar libro</button>
+      </div>
+      <p id="resumen" class="muted"></p>
+      <div id="grid" class="grid"></div>
+      <div class="pag">
+        <button id="prev" class="sec">← Anterior</button>
+        <span id="pagInfo"></span>
+        <button id="next" class="sec">Siguiente →</button>
+      </div>
+    </section>
+
+    <!-- PRESTAMOS -->
+    <section id="vista-prestamos" class="vista oculta">
+      <div class="barra">
+        <select id="filtroEstado">
+          <option value="">Todos</option>
+          <option>Activo</option>
+          <option>Vencido</option>
+          <option>Devuelto</option>
+        </select>
+      </div>
+      <div class="tabla-wrap">
+        <table>
+          <thead><tr><th>Libro</th><th>Usuario</th><th>Préstamo</th><th>Límite</th><th>Estado</th><th></th></tr></thead>
+          <tbody id="tbPrestamos"></tbody>
+        </table>
+      </div>
+      <h3>Libros más solicitados</h3>
+      <ol id="topLibros" class="top"></ol>
+    </section>
+
+    <!-- USUARIOS -->
+    <section id="vista-usuarios" class="vista oculta">
+      <div class="barra"><button id="btnNuevoUsuario" class="sec">+ Agregar usuario</button></div>
+      <div class="tabla-wrap">
+        <table>
+          <thead><tr><th>Nombre</th><th>Correo</th><th>Rol</th><th>Identificador</th><th>Cuenta</th></tr></thead>
+          <tbody id="tbUsuarios"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <!-- Modal generico -->
+  <dialog id="modal">
+    <form method="dialog" id="modalForm">
+      <h2 id="modalTitulo"></h2>
+      <div id="modalCampos"></div>
+      <p id="modalError" class="error"></p>
+      <div class="acciones">
+        <button type="button" id="modalCancelar" class="sec">Cancelar</button>
+        <button type="submit" id="modalOk">Aceptar</button>
+      </div>
+    </form>
+  </dialog>
+
+  <div id="toast" class="toast"></div>
+  <script src="app.js"></script>
+</body>
+</html>

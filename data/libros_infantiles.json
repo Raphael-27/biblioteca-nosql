@@ -1,0 +1,597 @@
+[
+  {
+    "titulo": "El Principito",
+    "autores": [
+      "Antoine de Saint-Exupéry"
+    ],
+    "isbn": "9789000020010",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Alicia en el País de las Maravillas",
+    "autores": [
+      "Lewis Carroll"
+    ],
+    "isbn": "9789000020027",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "A través del Espejo",
+    "autores": [
+      "Lewis Carroll"
+    ],
+    "isbn": "9789000020034",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Peter Pan",
+    "autores": [
+      "J. M. Barrie"
+    ],
+    "isbn": "9789000020041",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Pinocho",
+    "autores": [
+      "Carlo Collodi"
+    ],
+    "isbn": "9789000020058",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "El Mago de Oz",
+    "autores": [
+      "L. Frank Baum"
+    ],
+    "isbn": "9789000020065",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Heidi",
+    "autores": [
+      "Johanna Spyri"
+    ],
+    "isbn": "9789000020072",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Matilda",
+    "autores": [
+      "Roald Dahl"
+    ],
+    "isbn": "9789000020089",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Charlie y la Fábrica de Chocolate",
+    "autores": [
+      "Roald Dahl"
+    ],
+    "isbn": "9789000020096",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "James y el Melocotón Gigante",
+    "autores": [
+      "Roald Dahl"
+    ],
+    "isbn": "9789000020102",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Las Brujas",
+    "autores": [
+      "Roald Dahl"
+    ],
+    "isbn": "9789000020119",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "El Gran Gigante Bonachón",
+    "autores": [
+      "Roald Dahl"
+    ],
+    "isbn": "9789000020126",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Fantástico Sr. Zorro",
+    "autores": [
+      "Roald Dahl"
+    ],
+    "isbn": "9789000020133",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Harry Potter y la Piedra Filosofal",
+    "autores": [
+      "J. K. Rowling"
+    ],
+    "isbn": "9789000020140",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Harry Potter y la Cámara Secreta",
+    "autores": [
+      "J. K. Rowling"
+    ],
+    "isbn": "9789000020157",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Harry Potter y el Prisionero de Azkaban",
+    "autores": [
+      "J. K. Rowling"
+    ],
+    "isbn": "9789000020164",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "El León, la Bruja y el Ropero",
+    "autores": [
+      "C. S. Lewis"
+    ],
+    "isbn": "9789000020171",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Momo",
+    "autores": [
+      "Michael Ende"
+    ],
+    "isbn": "9789000020188",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "La Historia Interminable",
+    "autores": [
+      "Michael Ende"
+    ],
+    "isbn": "9789000020195",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Jim Botón y Lucas el Maquinista",
+    "autores": [
+      "Michael Ende"
+    ],
+    "isbn": "9789000020201",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Pippi Calzaslargas",
+    "autores": [
+      "Astrid Lindgren"
+    ],
+    "isbn": "9789000020218",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Mary Poppins",
+    "autores": [
+      "P. L. Travers"
+    ],
+    "isbn": "9789000020225",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Winnie the Pooh",
+    "autores": [
+      "A. A. Milne"
+    ],
+    "isbn": "9789000020232",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "El Viento en los Sauces",
+    "autores": [
+      "Kenneth Grahame"
+    ],
+    "isbn": "9789000020249",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Cuentos de Andersen",
+    "autores": [
+      "Hans Christian Andersen"
+    ],
+    "isbn": "9789000020256",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Cuentos de los Hermanos Grimm",
+    "autores": [
+      "Jacob Grimm",
+      "Wilhelm Grimm"
+    ],
+    "isbn": "9789000020263",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Cuentos de Perrault",
+    "autores": [
+      "Charles Perrault"
+    ],
+    "isbn": "9789000020270",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Las Aventuras de Tom Sawyer",
+    "autores": [
+      "Mark Twain"
+    ],
+    "isbn": "9789000020287",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "La Isla del Tesoro",
+    "autores": [
+      "Robert Louis Stevenson"
+    ],
+    "isbn": "9789000020294",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "El Libro de la Selva",
+    "autores": [
+      "Rudyard Kipling"
+    ],
+    "isbn": "9789000020300",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Mujercitas",
+    "autores": [
+      "Louisa May Alcott"
+    ],
+    "isbn": "9789000020317",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Ana de las Tejas Verdes",
+    "autores": [
+      "L. M. Montgomery"
+    ],
+    "isbn": "9789000020324",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Robinson Crusoe",
+    "autores": [
+      "Daniel Defoe"
+    ],
+    "isbn": "9789000020331",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Los Viajes de Gulliver",
+    "autores": [
+      "Jonathan Swift"
+    ],
+    "isbn": "9789000020348",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "El Jardín Secreto",
+    "autores": [
+      "Frances Hodgson Burnett"
+    ],
+    "isbn": "9789000020355",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Pollyanna",
+    "autores": [
+      "Eleanor H. Porter"
+    ],
+    "isbn": "9789000020362",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Platero y Yo",
+    "autores": [
+      "Juan Ramón Jiménez"
+    ],
+    "isbn": "9789000020379",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Marcelino Pan y Vino",
+    "autores": [
+      "José María Sánchez-Silva"
+    ],
+    "isbn": "9789000020386",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Manolito Gafotas",
+    "autores": [
+      "Elvira Lindo"
+    ],
+    "isbn": "9789000020393",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Diario de Greg",
+    "autores": [
+      "Jeff Kinney"
+    ],
+    "isbn": "9789000020409",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Donde Viven los Monstruos",
+    "autores": [
+      "Maurice Sendak"
+    ],
+    "isbn": "9789000020416",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "La Oruga Muy Hambrienta",
+    "autores": [
+      "Eric Carle"
+    ],
+    "isbn": "9789000020423",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "El Grúfalo",
+    "autores": [
+      "Julia Donaldson"
+    ],
+    "isbn": "9789000020430",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Papelucho",
+    "autores": [
+      "Marcela Paz"
+    ],
+    "isbn": "9789000020447",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "La Telaraña de Carlota",
+    "autores": [
+      "E. B. White"
+    ],
+    "isbn": "9789000020454",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Stuart Little",
+    "autores": [
+      "E. B. White"
+    ],
+    "isbn": "9789000020461",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Percy Jackson y el Ladrón del Rayo",
+    "autores": [
+      "Rick Riordan"
+    ],
+    "isbn": "9789000020478",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Los Cinco y el Tesoro de la Isla",
+    "autores": [
+      "Enid Blyton"
+    ],
+    "isbn": "9789000020485",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "El Pequeño Nicolás",
+    "autores": [
+      "René Goscinny"
+    ],
+    "isbn": "9789000020492",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Cuentos de la Selva",
+    "autores": [
+      "Horacio Quiroga"
+    ],
+    "isbn": "9789000020508",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "El Hobbit",
+    "autores": [
+      "J. R. R. Tolkien"
+    ],
+    "isbn": "9789000020515",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Mi Planta de Naranja Lima",
+    "autores": [
+      "José Mauro de Vasconcelos"
+    ],
+    "isbn": "9789000020522",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Coraline",
+    "autores": [
+      "Neil Gaiman"
+    ],
+    "isbn": "9789000020539",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "El Pequeño Vampiro",
+    "autores": [
+      "Angela Sommer-Bodenburg"
+    ],
+    "isbn": "9789000020546",
+    "categoria": "Infantiles",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  }
+]

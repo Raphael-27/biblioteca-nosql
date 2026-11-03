@@ -1,0 +1,14 @@
+{
+  "name": "biblioteca-web",
+  "version": "1.0.0",
+  "description": "Sistema de Gestión Bibliotecaria - Bases de Datos NoSQL (6CM68) UPIICSA, IPN",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.0"
+  }
+}

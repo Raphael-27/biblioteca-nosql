@@ -1,0 +1,607 @@
+[
+  {
+    "titulo": "Drácula",
+    "autores": [
+      "Bram Stoker"
+    ],
+    "isbn": "9789000030019",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Frankenstein",
+    "autores": [
+      "Mary Shelley"
+    ],
+    "isbn": "9789000030026",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "El Extraño Caso del Dr. Jekyll y Mr. Hyde",
+    "autores": [
+      "Robert Louis Stevenson"
+    ],
+    "isbn": "9789000030033",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "El Retrato de Dorian Gray",
+    "autores": [
+      "Oscar Wilde"
+    ],
+    "isbn": "9789000030040",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "El Exorcista",
+    "autores": [
+      "William Peter Blatty"
+    ],
+    "isbn": "9789000030057",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "El Resplandor",
+    "autores": [
+      "Stephen King"
+    ],
+    "isbn": "9789000030064",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "It (Eso)",
+    "autores": [
+      "Stephen King"
+    ],
+    "isbn": "9789000030071",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Carrie",
+    "autores": [
+      "Stephen King"
+    ],
+    "isbn": "9789000030088",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Cementerio de Animales",
+    "autores": [
+      "Stephen King"
+    ],
+    "isbn": "9789000030095",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Misery",
+    "autores": [
+      "Stephen King"
+    ],
+    "isbn": "9789000030101",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "El Misterio de Salem's Lot",
+    "autores": [
+      "Stephen King"
+    ],
+    "isbn": "9789000030118",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Cujo",
+    "autores": [
+      "Stephen King"
+    ],
+    "isbn": "9789000030125",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Christine",
+    "autores": [
+      "Stephen King"
+    ],
+    "isbn": "9789000030132",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Pesadillas y Paisajes Nocturnos",
+    "autores": [
+      "Stephen King"
+    ],
+    "isbn": "9789000030149",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Ojos de Fuego",
+    "autores": [
+      "Stephen King"
+    ],
+    "isbn": "9789000030156",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Doctor Sueño",
+    "autores": [
+      "Stephen King"
+    ],
+    "isbn": "9789000030163",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Desesperación",
+    "autores": [
+      "Stephen King"
+    ],
+    "isbn": "9789000030170",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "El Cazador de Sueños",
+    "autores": [
+      "Stephen King"
+    ],
+    "isbn": "9789000030187",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Las Cuatro Después de Medianoche",
+    "autores": [
+      "Stephen King"
+    ],
+    "isbn": "9789000030194",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Insomnia",
+    "autores": [
+      "Stephen King"
+    ],
+    "isbn": "9789000030200",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "El Bebé de Rosemary",
+    "autores": [
+      "Ira Levin"
+    ],
+    "isbn": "9789000030217",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "La Casa Infernal",
+    "autores": [
+      "Richard Matheson"
+    ],
+    "isbn": "9789000030224",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Soy Leyenda",
+    "autores": [
+      "Richard Matheson"
+    ],
+    "isbn": "9789000030231",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "La Maldición de Hill House",
+    "autores": [
+      "Shirley Jackson"
+    ],
+    "isbn": "9789000030248",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Siempre Hemos Vivido en el Castillo",
+    "autores": [
+      "Shirley Jackson"
+    ],
+    "isbn": "9789000030255",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Otra Vuelta de Tuerca",
+    "autores": [
+      "Henry James"
+    ],
+    "isbn": "9789000030262",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Narraciones Extraordinarias",
+    "autores": [
+      "Edgar Allan Poe"
+    ],
+    "isbn": "9789000030279",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "El Gato Negro y Otros Cuentos",
+    "autores": [
+      "Edgar Allan Poe"
+    ],
+    "isbn": "9789000030286",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "La Caída de la Casa Usher y Otros Cuentos",
+    "autores": [
+      "Edgar Allan Poe"
+    ],
+    "isbn": "9789000030293",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "La Llamada de Cthulhu",
+    "autores": [
+      "H. P. Lovecraft"
+    ],
+    "isbn": "9789000030309",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "En las Montañas de la Locura",
+    "autores": [
+      "H. P. Lovecraft"
+    ],
+    "isbn": "9789000030316",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "El Color que Cayó del Cielo",
+    "autores": [
+      "H. P. Lovecraft"
+    ],
+    "isbn": "9789000030323",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "La Sombra sobre Innsmouth",
+    "autores": [
+      "H. P. Lovecraft"
+    ],
+    "isbn": "9789000030330",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Carmilla",
+    "autores": [
+      "Sheridan Le Fanu"
+    ],
+    "isbn": "9789000030347",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "El Vampiro",
+    "autores": [
+      "John Polidori"
+    ],
+    "isbn": "9789000030354",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "El Fantasma de Canterville",
+    "autores": [
+      "Oscar Wilde"
+    ],
+    "isbn": "9789000030361",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Cuentos de Fantasmas",
+    "autores": [
+      "M. R. James"
+    ],
+    "isbn": "9789000030378",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "El Horla",
+    "autores": [
+      "Guy de Maupassant"
+    ],
+    "isbn": "9789000030385",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "La Dama de Negro",
+    "autores": [
+      "Susan Hill"
+    ],
+    "isbn": "9789000030392",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Entrevista con el Vampiro",
+    "autores": [
+      "Anne Rice"
+    ],
+    "isbn": "9789000030408",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Los Pájaros y Otros Relatos",
+    "autores": [
+      "Daphne du Maurier"
+    ],
+    "isbn": "9789000030415",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Psicosis",
+    "autores": [
+      "Robert Bloch"
+    ],
+    "isbn": "9789000030422",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Algo Malo se Acerca",
+    "autores": [
+      "Ray Bradbury"
+    ],
+    "isbn": "9789000030439",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "El Hombre de Arena",
+    "autores": [
+      "E. T. A. Hoffmann"
+    ],
+    "isbn": "9789000030446",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "La Venus de Ille",
+    "autores": [
+      "Prosper Mérimée"
+    ],
+    "isbn": "9789000030453",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "El Monje",
+    "autores": [
+      "Matthew Lewis"
+    ],
+    "isbn": "9789000030460",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "El Castillo de Otranto",
+    "autores": [
+      "Horace Walpole"
+    ],
+    "isbn": "9789000030477",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Cuentos de Amor, de Locura y de Muerte",
+    "autores": [
+      "Horacio Quiroga"
+    ],
+    "isbn": "9789000030484",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Pedro Páramo",
+    "autores": [
+      "Juan Rulfo"
+    ],
+    "isbn": "9789000030491",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Bestiario",
+    "autores": [
+      "Julio Cortázar"
+    ],
+    "isbn": "9789000030507",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Aura",
+    "autores": [
+      "Carlos Fuentes"
+    ],
+    "isbn": "9789000030514",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "La Casa de Hojas",
+    "autores": [
+      "Mark Z. Danielewski"
+    ],
+    "isbn": "9789000030521",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "La Leyenda de Sleepy Hollow",
+    "autores": [
+      "Washington Irving"
+    ],
+    "isbn": "9789000030538",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "El Fantasma de la Ópera",
+    "autores": [
+      "Gaston Leroux"
+    ],
+    "isbn": "9789000030545",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "El Silencio de los Inocentes",
+    "autores": [
+      "Thomas Harris"
+    ],
+    "isbn": "9789000030552",
+    "categoria": "Terror",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  }
+]

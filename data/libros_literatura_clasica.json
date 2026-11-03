@@ -1,0 +1,47 @@
+[
+  {
+    "titulo": "Don Quijote de la Mancha",
+    "autores": ["Miguel de Cervantes Saavedra"],
+    "isbn": "9788420412146",
+    "categoria": "Literatura Clasica",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Crimen y Castigo",
+    "autores": ["Fiodor Dostoyevski"],
+    "isbn": "9788491050155",
+    "categoria": "Literatura Clasica",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Orgullo y Prejuicio",
+    "autores": ["Jane Austen"],
+    "isbn": "9788491051770",
+    "categoria": "Literatura Clasica",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "La Odisea",
+    "autores": ["Homero"],
+    "isbn": "9788437604664",
+    "categoria": "Literatura Clasica",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Los Miserables",
+    "autores": ["Victor Hugo"],
+    "isbn": "9788491052265",
+    "categoria": "Literatura Clasica",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  }
+]

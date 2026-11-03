@@ -1,0 +1,92 @@
+[
+  {
+    "titulo": "Fundamentos de Bases de Datos",
+    "autores": ["Abraham Silberschatz", "Henry F. Korth", "S. Sudarshan"],
+    "isbn": "9786071511171",
+    "categoria": "Bases de Datos",
+    "edicion": "6a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "MongoDB: The Definitive Guide",
+    "autores": ["Shannon Bradshaw", "Kristina Chodorow"],
+    "isbn": "9781491954461",
+    "categoria": "Bases de Datos",
+    "edicion": "3a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Ingenieria de Software",
+    "autores": ["Ian Sommerville"],
+    "isbn": "9786073206020",
+    "categoria": "Ingenieria de Software",
+    "edicion": "9a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Estructuras de Datos y Algoritmos en Java",
+    "autores": ["Michael T. Goodrich", "Roberto Tamassia"],
+    "isbn": "9781118771334",
+    "categoria": "Programacion",
+    "edicion": "6a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "JavaScript: The Good Parts",
+    "autores": ["Douglas Crockford"],
+    "isbn": "9780596517748",
+    "categoria": "Programacion",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Redes de Computadoras",
+    "autores": ["Andrew S. Tanenbaum", "David J. Wetherall"],
+    "isbn": "9786073208178",
+    "categoria": "Redes",
+    "edicion": "5a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Sistemas Operativos Modernos",
+    "autores": ["Andrew S. Tanenbaum", "Herbert Bos"],
+    "isbn": "9786073213158",
+    "categoria": "Sistemas Operativos",
+    "edicion": "4a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Inteligencia Artificial: Un Enfoque Moderno",
+    "autores": ["Stuart Russell", "Peter Norvig"],
+    "isbn": "9788483226032",
+    "categoria": "Inteligencia Artificial",
+    "edicion": "2a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Administracion de Proyectos",
+    "autores": ["Gary R. Heerkens"],
+    "isbn": "9789701061183",
+    "categoria": "Administracion",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Clean Code",
+    "autores": ["Robert C. Martin"],
+    "isbn": "9780132350884",
+    "categoria": "Ingenieria de Software",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  }
+]

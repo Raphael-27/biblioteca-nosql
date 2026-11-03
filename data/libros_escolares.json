@@ -1,0 +1,568 @@
+[
+  {
+    "titulo": "Álgebra",
+    "autores": [
+      "Aurelio Baldor"
+    ],
+    "isbn": "9789000010011",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Geometría y Trigonometría",
+    "autores": [
+      "Aurelio Baldor"
+    ],
+    "isbn": "9789000010028",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Aritmética",
+    "autores": [
+      "Aurelio Baldor"
+    ],
+    "isbn": "9789000010035",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Geometría Analítica",
+    "autores": [
+      "Charles H. Lehmann"
+    ],
+    "isbn": "9789000010042",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Cálculo de una Variable",
+    "autores": [
+      "James Stewart"
+    ],
+    "isbn": "9789000010059",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Cálculo de Varias Variables",
+    "autores": [
+      "James Stewart"
+    ],
+    "isbn": "9789000010066",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Precálculo",
+    "autores": [
+      "James Stewart"
+    ],
+    "isbn": "9789000010073",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Cálculo",
+    "autores": [
+      "Ron Larson"
+    ],
+    "isbn": "9789000010080",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Álgebra Lineal y sus Aplicaciones",
+    "autores": [
+      "David C. Lay"
+    ],
+    "isbn": "9789000010097",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Álgebra Lineal",
+    "autores": [
+      "Stanley I. Grossman"
+    ],
+    "isbn": "9789000010103",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Ecuaciones Diferenciales",
+    "autores": [
+      "Dennis G. Zill"
+    ],
+    "isbn": "9789000010110",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Matemáticas Discretas",
+    "autores": [
+      "Richard Johnsonbaugh"
+    ],
+    "isbn": "9789000010127",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Probabilidad y Estadística para Ingeniería",
+    "autores": [
+      "Ronald E. Walpole"
+    ],
+    "isbn": "9789000010134",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Estadística Elemental",
+    "autores": [
+      "Mario F. Triola"
+    ],
+    "isbn": "9789000010141",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Estadística para Administración y Economía",
+    "autores": [
+      "David R. Anderson"
+    ],
+    "isbn": "9789000010158",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Física Conceptual",
+    "autores": [
+      "Paul G. Hewitt"
+    ],
+    "isbn": "9789000010165",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Física Universitaria",
+    "autores": [
+      "Hugh D. Young",
+      "Roger A. Freedman"
+    ],
+    "isbn": "9789000010172",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Fundamentos de Física",
+    "autores": [
+      "David Halliday",
+      "Robert Resnick",
+      "Jearl Walker"
+    ],
+    "isbn": "9789000010189",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Física para Ciencias e Ingeniería",
+    "autores": [
+      "Raymond A. Serway"
+    ],
+    "isbn": "9789000010196",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Física para la Ciencia y la Tecnología",
+    "autores": [
+      "Paul A. Tipler"
+    ],
+    "isbn": "9789000010202",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Física General",
+    "autores": [
+      "Santiago Burbano de Ercilla"
+    ],
+    "isbn": "9789000010219",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Física: Campos y Ondas",
+    "autores": [
+      "Marcelo Alonso",
+      "Edward J. Finn"
+    ],
+    "isbn": "9789000010226",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Química",
+    "autores": [
+      "Raymond Chang"
+    ],
+    "isbn": "9789000010233",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Química General",
+    "autores": [
+      "Ralph H. Petrucci"
+    ],
+    "isbn": "9789000010240",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Química: La Ciencia Central",
+    "autores": [
+      "Theodore L. Brown"
+    ],
+    "isbn": "9789000010257",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Química Orgánica (Wade)",
+    "autores": [
+      "Leroy G. Wade"
+    ],
+    "isbn": "9789000010264",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Química Orgánica (McMurry)",
+    "autores": [
+      "John McMurry"
+    ],
+    "isbn": "9789000010271",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Principios de Química",
+    "autores": [
+      "Peter Atkins"
+    ],
+    "isbn": "9789000010288",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Biología (Campbell)",
+    "autores": [
+      "Neil A. Campbell"
+    ],
+    "isbn": "9789000010295",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Biología (Curtis)",
+    "autores": [
+      "Helena Curtis"
+    ],
+    "isbn": "9789000010301",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Biología Molecular de la Célula",
+    "autores": [
+      "Bruce Alberts"
+    ],
+    "isbn": "9789000010318",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Genética",
+    "autores": [
+      "Anthony J. F. Griffiths"
+    ],
+    "isbn": "9789000010325",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Ecología",
+    "autores": [
+      "Robert E. Ricklefs"
+    ],
+    "isbn": "9789000010332",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Anatomía y Fisiología Humana",
+    "autores": [
+      "Elaine N. Marieb"
+    ],
+    "isbn": "9789000010349",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Historia Mínima de México",
+    "autores": [
+      "Daniel Cosío Villegas"
+    ],
+    "isbn": "9789000010356",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Historia General de México",
+    "autores": [
+      "El Colegio de México"
+    ],
+    "isbn": "9789000010363",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Breve Historia del Mundo",
+    "autores": [
+      "Ernst H. Gombrich"
+    ],
+    "isbn": "9789000010370",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Geografía Física",
+    "autores": [
+      "Arthur N. Strahler"
+    ],
+    "isbn": "9789000010387",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Principios de Economía",
+    "autores": [
+      "N. Gregory Mankiw"
+    ],
+    "isbn": "9789000010394",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Economía",
+    "autores": [
+      "Paul A. Samuelson",
+      "William D. Nordhaus"
+    ],
+    "isbn": "9789000010400",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Sociología",
+    "autores": [
+      "Anthony Giddens"
+    ],
+    "isbn": "9789000010417",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Psicología y Vida",
+    "autores": [
+      "Philip G. Zimbardo"
+    ],
+    "isbn": "9789000010424",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Los Problemas de la Filosofía",
+    "autores": [
+      "Bertrand Russell"
+    ],
+    "isbn": "9789000010431",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  },
+  {
+    "titulo": "Introducción a la Lógica",
+    "autores": [
+      "Irving M. Copi"
+    ],
+    "isbn": "9789000010448",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Gramática de la Lengua Española",
+    "autores": [
+      "Real Academia Española"
+    ],
+    "isbn": "9789000010455",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Ortografía de la Lengua Española",
+    "autores": [
+      "Real Academia Española"
+    ],
+    "isbn": "9789000010462",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Diccionario de la Lengua Española",
+    "autores": [
+      "Real Academia Española"
+    ],
+    "isbn": "9789000010479",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 5,
+    "ejemplaresDisponibles": 5
+  },
+  {
+    "titulo": "Curso de Redacción",
+    "autores": [
+      "Gonzalo Martín Vivaldi"
+    ],
+    "isbn": "9789000010486",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 6,
+    "ejemplaresDisponibles": 6
+  },
+  {
+    "titulo": "Metodología de la Investigación",
+    "autores": [
+      "Roberto Hernández Sampieri"
+    ],
+    "isbn": "9789000010493",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 4,
+    "ejemplaresDisponibles": 4
+  },
+  {
+    "titulo": "Cómo se Hace una Tesis",
+    "autores": [
+      "Umberto Eco"
+    ],
+    "isbn": "9789000010509",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 2,
+    "ejemplaresDisponibles": 2
+  },
+  {
+    "titulo": "Cálculo Diferencial e Integral",
+    "autores": [
+      "William A. Granville"
+    ],
+    "isbn": "9789000010516",
+    "categoria": "Escolares",
+    "edicion": "1a",
+    "ejemplaresTotales": 3,
+    "ejemplaresDisponibles": 3
+  }
+]
